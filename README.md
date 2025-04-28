@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @CodeMonkeyDan
-- 👀 I’m interested in changing careers into some sort of programming field.
-- 🌱 I’m currently learning C# and Java.
-- 💞️ I’m looking to collaborate on games or other projects. Anything I can find time to help out with that will help me learn.
-- 📫 How to reach me, I am CodeMonkeyDan on Discord.
-- ⚡ Fun fact: While I feel I still have a ways to go, I really enjoy the challenges of programming and learning new things.
+- 👀 I am actively transitioning into a programming career to pursue my passion for technology and software development.
+- 🌱 I am currently focused on strengthening my skills in C# and Java.
+- 💞️ I’m looking for opportunities to collaborate on games or other projects — anything that will help me learn and build experience.
+- 📫 You can reach me on Discord at CodeMonkeyDan.
+- ⚡ Fun fact: Although I know there's always more to learn, I genuinely enjoy the challenges of programming and the process of continual growth.
 
 <!---
 CodeMonkeyDan/CodeMonkeyDan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
